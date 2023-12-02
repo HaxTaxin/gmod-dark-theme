@@ -19,5 +19,5 @@ If you ever want to revert to the default theme:
     - Go to your Library.
     - Right-click on Garry's Mod.
     - Select "Properties."
-    - Navigate to the "Local Files" tab.
-    - Click "Verify Integrity of Game Files."
+    - Navigate to the "Installed Files" tab.
+    - Click "Verify integrity of game files."
